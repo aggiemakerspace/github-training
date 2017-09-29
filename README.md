@@ -4,7 +4,10 @@ This repository is dedicated to providing a _thorough_ introduction to all of th
 and project management through [git](www.git-scm.com) and [GitHub](www.github.com).
 
 This repository is broken into modules, each covering a specific skill set. As you complete each module, you
-will learn new tools and methodologies that can make your projects better organized and more collaborative.
+will learn new tools and methodologies that can make your projects better organized and more collaborative. You
+should start with Module 0, Module 1, and Module 2, as these give you the tools that you need to understand and
+work effectively using git on GitHub. The remaining modules can be completed as you find need for them, as each
+dives deeper into a specific topic with GitHub.
 
 ## Outline
 * Module 0 - Getting Started
@@ -22,3 +25,5 @@ will learn new tools and methodologies that can make your projects better organi
   * README files
   * Advanced markdown features
 * Module 7 - Hosting with GitHub Pages
+* Module 8 - Using GitHub Classroom as an Instructor
+* Module 9 - Organization Management on GitHub
