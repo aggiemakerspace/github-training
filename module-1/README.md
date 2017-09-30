@@ -68,3 +68,16 @@ being in the same place or even working at the same time.
 
 Once a _pull request_ is approved, it can be merged into the `master` branch, which adds all
 changes made since the creation of the branch to the `master` branch.
+
+### Exercise
+
+Your exercise for this module is to submit a pull request introducing yourself to the
+NC A&T Makerspace community. From the [main repository page](https://github.com/aggiemakerspace/github-training), open the `submissions` directory
+and create a new file called `about.md` in `submissions/[your-github-username]/`.
+Your `about.md` file is a [Markdown](https://guides.github.com/features/mastering-markdown/)
+document that can be formatted using Markdown syntax. Your document should answer the following questions:
+* Who are you? What is your name and what do you do on campus?
+* What do you do outside of school? What are your hobbies and passions?
+* What do _you_ have experience in? What can others ask you about for assistance? This community can only thrive with the cumulative skills and experience of all of us. **Those skills and collaborations** are what we are using GitHub to enhance.
+
+Once you have completed your `about.md`, select "Create a new branch for this commit and start a pull request". Follow the _pull request template_ provided when you click "Commit new file".
