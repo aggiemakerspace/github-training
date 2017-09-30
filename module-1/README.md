@@ -49,4 +49,22 @@ separately from any other changes. Speaking of code review, let's discuss pull r
 
 ##### Pull Requests
 
-Once a developer
+Once a developer has completed all changes for his or her specific branch, it is time to request a review!
+Code review is an important step of the software development process. In a collaborative
+project, no changes should be merged to the `master` branch without being checked by another
+team member. Even in a two person team, Developer A should always have Developer B review his or her
+changes before merging. Likewise, Developer B will always ask Developer A to check his or her
+changes before merging to `master`. This process can be quickly handled in a _pull request_.
+
+Remember that each developer is working on a separate _working branch_ that contains only the
+changes for their specific task. A _pull request_ is a request by the developer to _pull_ those
+changes from the _working branch_ into the `master` branch. In a pull request, reviewers can view
+the changes made and make comments, ask for clarification, or suggest changes. This ensures that the
+only changes to make it to the `master` branch are the **best possible work of the whole team**, not
+just a single developer. The largest benefit of the pull request model is that these comments are
+made within the context of the changes themselves. Reviewers can comment on the **exact** line
+that they are referring to, which makes it easier to communicate between team members without
+being in the same place or even working at the same time.
+
+Once a _pull request_ is approved, it can be merged into the `master` branch, which adds all
+changes made since the creation of the branch to the `master` branch.
