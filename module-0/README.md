@@ -47,4 +47,14 @@ GitHub's Electron technology. Atom is not necessarily required for this course, 
 a text editor. If you do not already have a favorite text editor, Atom can be downloaded from
 [Atom's website](https://atom.io/).
 
+#### Registering with GitHub
+
+You will need a GitHub account to complete this course. Accounts are free and you can sign
+up on [GitHub's Homepage](https://github.com/). As a student using GitHub, you are entitled
+to several free benefits as part of the [GitHub Student Developer Pack](https://education.github.com/pack).
+Basically, to get the benefits of the GitHub Student Developer Pack, sign up for GitHub using
+your school email address, or add it to your account later. Once your school email address is
+associated with your GitHub account, you can sign up for the Student Developer Pack on
+[GitHub Education's Website](https://education.github.com/pack).
+
 ### Exercise
