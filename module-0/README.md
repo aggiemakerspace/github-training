@@ -11,4 +11,19 @@ student account!
 
 ### Course Content
 
+This module can be experience in one of two ways:
+  1. YouTube video available here
+  2. Full text of the video is available below
+
+### Course Transcript
+
+#### Installing Git
+
+The most important tool we will need for this course is git. Git is a command line utility that
+can be downloaded for every platform [here](www.git-scm.com). Download the installer for your
+operating system, and install the git tool. For Windows, the default options are all fine.
+
+Once you have installed git, you will access it from the _terminal_ on Linux and MacOS, and
+from the Git Bash application on Windows.
+
 ### Exercise
