@@ -57,4 +57,15 @@ your school email address, or add it to your account later. Once your school ema
 associated with your GitHub account, you can sign up for the Student Developer Pack on
 [GitHub Education's Website](https://education.github.com/pack).
 
+#### Signing Up as a Makerspace User
+
+In order to use to Makerspace and make submissions in this course, you must register on the
+[Makerspace Website](https://NowYouCanFindMe.github.io). You must use your school email
+address to sign up for the Makerspace. Additionally, signing up on the Makerspace website
+automatically sends you an invitation to the Makerspace GitHub organization. Therefore, make sure
+that your NCAT email is associated with your GitHub account before signing up.
+
 ### Exercise
+
+The exercise for this module is to complete all configuration above and send me and email
+asking to join the Makerspace!
