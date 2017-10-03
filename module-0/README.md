@@ -26,4 +26,11 @@ operating system, and install the git tool. For Windows, the default options are
 Once you have installed git, you will access it from the _terminal_ on Linux and MacOS, and
 from the Git Bash application on Windows.
 
+#### Installing Atom
+
+Atom is a cross platform, open source, "hackable" text editor built by GitHub and deployed using
+GitHub's Electron technology. Atom is not necessarily required for this course, but you will need
+a text editor. If you do not already have a favorite text editor, Atom can be downloaded from
+[Atom's website](https://atom.io/).
+
 ### Exercise
