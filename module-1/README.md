@@ -21,7 +21,7 @@ This module can be experienced in one of two ways:
 Source control is a technology that allows developers and other professionals to track
 changes to a project over time, and manage releases of data. Basically, this allows
 you to have a `master`, or `release` copy of your project, and multiple working copies
-called `branches` that individual team members can contribute to, and submit these changes for review.
+called _branches_ that individual team members can contribute to, and submit these changes for review.
 
 #### Git Source Control Management
 
