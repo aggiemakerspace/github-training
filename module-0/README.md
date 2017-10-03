@@ -26,6 +26,20 @@ operating system, and install the git tool. For Windows, the default options are
 Once you have installed git, you will access it from the _terminal_ on Linux and MacOS, and
 from the Git Bash application on Windows.
 
+#### Configuring Git
+
+You must configure a few settings for git before you can use it. Once again, on a MacOS or
+Linux machine, launch the _terminal_ to access git. On Windows machines, launch the Git
+Bash application. You should run the following commands to configure git:
+
+`git config --global user.name "[USERS FIRST AND LAST NAME]"`
+
+`git config --global user.email "[USERS EMAIL ADDRESS]"`
+
+Generally, in git and GitHub documentation, anything surrounded by brackets [ ] is a placeholder
+for the users own information. You should remove the brackets when you add your information. For
+example, for the first command I would run `git config --global user.name "Chris Cannon"`.
+
 #### Installing Atom
 
 Atom is a cross platform, open source, "hackable" text editor built by GitHub and deployed using
