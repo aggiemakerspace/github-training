@@ -15,7 +15,7 @@ dives deeper into a specific topic with GitHub.
   * Creating a GitHub account
 * Module 1 - Introduction to Source Control and Git
 * Module 2 - Using Git with GitHub
-* Module 3 - Source Controlled Software Development=
+* Module 3 - Source Controlled Software Development
   * Resolving merge conflicts
   * Keeping branches up to date
 * Module 4 - Collaborating with GitHub
