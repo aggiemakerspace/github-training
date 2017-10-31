@@ -11,7 +11,7 @@ use git and familiarize you with git and GitHub terminology.
 ### Course Content
 
 This module can be experienced in one of two ways:
-  1. YouTube video available [here](http://www.youtube.com/watch?v=EdCqIXwKVIE).
+  1. YouTube video available [here](http://www.youtube.com/watch?v=Crp40qvuRSE).
   2. Full text of the video is available below.
 
 ### Course Transcript
