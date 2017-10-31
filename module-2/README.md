@@ -77,6 +77,8 @@ You should also pull at the start of each development session, and any time you 
 
 #### Updating Branches from Master
 
+Often, especially on projects including two or more developers, the "master" branch may be updated since you created your working branch. If you remember from [Module 1](../module-1), we must merge those changes into our working branch in order to make sure we are continually working on the most up to date version of our code.
+
 ##### GitHub Desktop
 
 ##### Command Line
