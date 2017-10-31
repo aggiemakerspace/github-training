@@ -100,7 +100,15 @@ You should also pull at the start of each development session, and any time you 
 
 ##### GitHub Desktop
 
+Make sure that the branch you would like to pull or push is selected on the "Current Branch" drop-down menu, then:
+- Click "Repository -> Pull"
+- Click "Repository -> Push"
+
 ##### Command Line
+
+First, you must make sure you are currently on the branch you want to pull or push, you can check this by running `git branch` and can change branches using `git checkout [branch-name]`. Then,
+- `git pull`
+- `git push`
 
 #### Updating Branches from Master
 
