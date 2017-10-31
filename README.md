@@ -10,7 +10,7 @@ work effectively using git on GitHub. The remaining modules can be completed as 
 dives deeper into a specific topic with GitHub.
 
 ## Outline
-* Module 0 - Getting Started
+* [Module 0 - Getting Started](/module-0)
   * Installing and configuring git
   * Creating a GitHub account
 * Module 1 - Introduction to Source Control and Git
