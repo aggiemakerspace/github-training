@@ -1,0 +1,3 @@
+My name is Arius Thomas. I'm a sophomore in Computer Engineering attending NCAT. 
+I like to help my high school's vex robotic team in my spare time.
+....
