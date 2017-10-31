@@ -84,3 +84,11 @@ Often, especially on projects including two or more developers, the "master" bra
 ##### Command Line
 
 ### Exercise
+
+Using your chosen git client (command line or GitHub Desktop), clone this repository, create a new working branch, and create a file called "git-quiz.md" in "submissions/[Your-username]/module-2". Answer the following questions in your file:
+1. How often should you commit, when working in git?
+2. How often should you push, when working in git?
+3. Did you decide to use GitHub Desktop or the command line to complete this exercise?
+4. How will you commit and push these changes using your chosen method?
+
+Push these changes and open a pull request in the [github-training repo](https://github.com/aggiemakerspace/github-training).
