@@ -9,10 +9,10 @@ In this module, there are two ways to complete it. You can either complete it us
 
 ### Course Content
 
-As always, this module can be experienced in two ways:
-  1. Youtube video available using GitHub Desktop here.
-  2. Youtube video available using the terminal/git bash here.
-  2. Full text of the course is available below.
+As always, this module can be experienced in multiple ways:
+  1. Youtube video available using GitHub Desktop [here](http://www.youtube.com/watch?v=liDrLD3GefQ).
+  2. Command Line video coming soon!
+  3. Full text of the course is available below.
 
 ### Course Transcript
 
