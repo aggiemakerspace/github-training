@@ -57,7 +57,7 @@ For both of these methods, you MUST carefully select a base branch. For example,
 
 ##### GitHub Desktop
 
-- Click "File -> New Branch" with your repository selected.
+- Click "Branch -> New Branch" with your repository selected.
 - Give your new branch a name.
 - Select base branch from the "From" drop-down menu.
 
@@ -116,7 +116,15 @@ Often, especially on projects including two or more developers, the "master" bra
 
 ##### GitHub Desktop
 
+- Checkout your "master" branch and pull the most recent version.
+- Checkout the branch that you'd like to update using the "Current Branch" drop-down menu. Click "Branch -> Update From Default Branch".
+
 ##### Command Line
+
+- `git checkout master`
+- `git pull`
+- `git checkout [branch-to-update]`
+- `git merge master`
 
 ### Exercise
 
