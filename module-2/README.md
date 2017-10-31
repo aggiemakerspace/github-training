@@ -39,7 +39,15 @@ GitHub Desktop automatically creates a subdirectory of "Documents" called "GitHu
 
 ##### GitHub Desktop
 
+From your repository homepage, click "Clone or download" and choose "Open in Desktop".
+
 ##### Command Line
+
+- From your repository homepage, click "Clone or download", copy the link to your clipboard.
+- Open terminal or Git Bash. If you do not already have a "~/Documents/GitHub" directory, run `mkdir ~/Documents/GitHub`
+- Now, run `cd ~/Documents/GitHub` to change your active directory to your GitHub directory.
+- Run `git clone [paste-link here]` to clone your repository inside your GitHub directory.
+- **IMPORTANT** you MUST run `cd [github-repository-name]` after cloning before you can run any git commands!
 
 #### Creating a Working Branch
 
