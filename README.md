@@ -14,9 +14,9 @@ dives deeper into a specific topic with GitHub.
   * Installing and configuring git
   * Creating a GitHub account
 * [Module 1 - Introduction to Source Control and Git](/module-1)
+* [Module 2 - Using Git with GitHub](/module-2)
 
 ## Coming Soon!
-* Module 2 - Using Git with GitHub
 * Module 3 - Source Controlled Software Development
   * Resolving merge conflicts
   * Keeping branches up to date
