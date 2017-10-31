@@ -12,8 +12,8 @@ student account!
 ### Course Content
 
 This module can be experience in one of two ways:
-  1. YouTube video available here
-  2. Full text of the video is available below
+  1. YouTube video available [here](http://www.youtube.com/watch?v=-2htJa0B-qk).
+  2. Full text of the video is available below.
 
 ### Course Transcript
 
