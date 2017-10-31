@@ -74,7 +74,11 @@ Now, when it's time to make changes, you simply open the files you cloned in you
 
 ##### GitHub Desktop
 
+Changes are automatically added to tracking in GitHub Desktop.
+
 ##### Command Line
+
+The easiest way to add all files to tracking is `git add .`. The period in this case refers to the current working directory on the command line, so this adds all changes within the current directory to tracking and stages them for commit.
 
 #### Committing
 
