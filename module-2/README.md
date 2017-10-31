@@ -67,6 +67,10 @@ Once your changes have been saved, you wrap up these changes in a "commit" so th
 
 #### Pushing/Pulling
 
+The more often you push, the better. One rule is certain, before you close your laptop or sign off of a desktop, you should _definitely_ push your changes to your remote. This adds any changes you made on a given branch locally to the remote version of that branch. You should do this whenever you are getting ready to leave a computer in case you need to continue work on another computer, or if something physically happens to the computer you were working on previously.
+
+You should also pull at the start of each development session, and any time you check out a new branch, to make sure you are working on the most up to date version of that branch. A _pull_ operation consists of two parts: _fetching_ the remote version of your current branch and _merging_ it in to your local verison. This is generally handled behind the scenes without the user needing to add more control.
+
 ##### GitHub Desktop
 
 ##### Command Line
