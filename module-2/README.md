@@ -35,6 +35,8 @@ Now that you have a repository, in this case, the github-traning repository, you
 - Remote: an internet-accessible copy of your repository that is treated as an authoritative source of that repository. In this case, your remote is GitHub!
 - Local: a full copy of your repository cloned to a personal computer to be worked on.
 
+GitHub Desktop automatically creates a subdirectory of "Documents" called "GitHub", where it clones all of your repositories, we will follow the same convention with both GitHub Desktop and the command line.
+
 ##### GitHub Desktop
 
 ##### Command Line
