@@ -53,9 +53,20 @@ From your repository homepage, click "Clone or download" and choose "Open in Des
 
 Remember, our "master" branch is a clean, "release-worthy" branch of our highest-quality code. Now, when you are working on your own repository where you are the sole contributor and you are just working on a simple homework assignment, it may not be necessary to use individual branches. For working in this repository, as well as any other well-maintained public repository, you _cannot_ commit directly to the master branch, and therefore **must** make a working branch. For this module, we will name your working branch "[GitHub Username]-module2".
 
+For both of these methods, you MUST carefully select a base branch. For example, in Dr. Bryant's COMP167 class, major programs are divided into levels. You must complete each level on a separate branch, and submit them via a pull request. Now, if you complete level-1, but your pull request hasn't been merged yet, your code is not on your "master branch". In order to start working on level-2 right away, you must create your level-2 branch with a base branch of level-1. However, in most other situations, "master" will be your base branch.
+
 ##### GitHub Desktop
 
+- Click "File -> New Branch" with your repository selected.
+- Give your new branch a name.
+- Select base branch from the "From" drop-down menu.
+
 ##### Command Line
+
+- If you are not already there, run `cd ~/Documents/GitHub/[your-repository-name]` to **C** hange **D** irectory to your repository.
+- If you are using "master" as your base branch, run `git checkout master`, or else checkout whatever branch you'd like to use as your base branch.
+- Now run `git pull` to make sure your base branch is up to date before continuing.
+- Create a new branch using `git checkout -b [new-branch-name]`.
 
 #### Making, Saving, and Tracking changes
 
