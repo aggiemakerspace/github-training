@@ -43,6 +43,8 @@ GitHub Desktop automatically creates a subdirectory of "Documents" called "GitHu
 
 #### Creating a Working Branch
 
+Remember, our "master" branch is a clean, "release-worthy" branch of our highest-quality code. Now, when you are working on your own repository where you are the sole contributor and you are just working on a simple homework assignment, it may not be necessary to use individual branches. For working in this repository, as well as any other well-maintained public repository, you _cannot_ commit directly to the master branch, and therefore **must** make a working branch. For this module, we will name your working branch "[GitHub Username]-module2".
+
 ##### GitHub Desktop
 
 ##### Command Line
