@@ -86,7 +86,11 @@ Once your changes have been saved, you wrap up these changes in a "commit" so th
 
 ##### GitHub Desktop
 
+Simply add a concise description in the "Summary" block. You can add a description if you'd like, but it isn't required and often isn't necessary.
+
 ##### Command Line
+
+`git commit -m "[Your commit message here]"`
 
 #### Pushing/Pulling
 
