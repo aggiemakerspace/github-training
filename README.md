@@ -29,3 +29,6 @@ dives deeper into a specific topic with GitHub.
 * Module 7 - Hosting with GitHub Pages
 * Module 8 - Using GitHub Classroom as an Instructor
 * Module 9 - Organization Management on GitHub
+
+## Support - Asking for help!
+Need help with a submission for the training? Have a general git question? Having difficulty with installing software? [Open an issue](https://github.com/aggiemakerspace/github-training/issues/new) to request assistance! Provide a detailed explanation of your problem and someone will provide you with an answer as soon as possible!
