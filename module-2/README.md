@@ -51,13 +51,15 @@ Remember, our "master" branch is a clean, "release-worthy" branch of our highest
 
 #### Making, Saving, and Tracking changes
 
-Now, when it's time to make changes, you simply open the files you cloned in your text editor of choice! Make changes and save them just like you'd usually work on code. If you are creating a new project in an IDE, make sure you place this project _inside_ your repository, **not** the default save location for that IDE. For example, NetBeans will try to save all new projects in "~/Documents/NetBeansProjects/", but if you are using git in COMP163 or COMP167, you will want to set your project location to "~/Documents/GitHub/[Repository-Name]". Finally, once changes have been made, you must tell git to track these changes and add them to your staging area for a commit. 
+Now, when it's time to make changes, you simply open the files you cloned in your text editor of choice! Make changes and save them just like you'd usually work on code. If you are creating a new project in an IDE, make sure you place this project _inside_ your repository, **not** the default save location for that IDE. For example, NetBeans will try to save all new projects in "~/Documents/NetBeansProjects/", but if you are using git in COMP163 or COMP167, you will want to set your project location to "~/Documents/GitHub/[Repository-Name]". Finally, once changes have been made, you must tell git to track these changes and add them to your staging area for a commit.
 
 ##### GitHub Desktop
 
 ##### Command Line
 
 #### Committing
+
+Once your changes have been saved, you wrap up these changes in a "commit" so that git can add them to the project history. You should commit often enough that you can describe what each commit does in a single concise sentence. For example "Override toString method", "Implement getters/setters", "Create UIViewController class". Notice that these commit messages are given in the _imperative voice_, which means they explain what the commit _will do_, they don't talk about what they've _done_. The reason for this is quite simple: when working on git, you should be committing changes to a working branch, not the "master" branch. Given that the "master" branch is considered the shipping version of your code, any code not in master isn't technically _done_ just yet, so saying "Overrode toString method" or "Implemented getters/setters" isn't actually accurate yet! Writing in the imperative voice gives a concise summary of changes in a commit message that clearly tells the reviewer what a pull request WILL DO if merged.
 
 ##### GitHub Desktop
 
