@@ -51,6 +51,8 @@ Remember, our "master" branch is a clean, "release-worthy" branch of our highest
 
 #### Making, Saving, and Tracking changes
 
+Now, when it's time to make changes, you simply open the files you cloned in your text editor of choice! Make changes and save them just like you'd usually work on code. If you are creating a new project in an IDE, make sure you place this project _inside_ your repository, **not** the default save location for that IDE. For example, NetBeans will try to save all new projects in "~/Documents/NetBeansProjects/", but if you are using git in COMP163 or COMP167, you will want to set your project location to "~/Documents/GitHub/[Repository-Name]". Finally, once changes have been made, you must tell git to track these changes and add them to your staging area for a commit. 
+
 ##### GitHub Desktop
 
 ##### Command Line
